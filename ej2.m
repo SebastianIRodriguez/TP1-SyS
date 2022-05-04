@@ -4,7 +4,7 @@ clear, clc
 
 %Constantes del problema
 Ts = 1 / Fs;
-c = 340;
+c = 343.2;
 L = 0.2;
 
 %Extraccion de las señales del archivo
